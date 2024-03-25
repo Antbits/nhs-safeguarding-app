@@ -1,6 +1,6 @@
 # NHS Safeguarding guide
 
-## A React native App
+A React native App
 
 # Getting started
 
