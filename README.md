@@ -2,7 +2,7 @@
 
 A React native App
 
-# Getting started
+## Getting started
 
 After cloning this repository follow the steps here to set up your environment: https://reactnative.dev/docs/environment-setup
 
