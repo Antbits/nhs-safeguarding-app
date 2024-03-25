@@ -1,0 +1,26 @@
+.level3>.wrap ul,.level3>.wrap p,.level3>.wrap h1 ,.level3>.wrap hr, .level3>.wrap h2, .level3>.wrap h3, .level3>.wrap blockquote, .level3>.wrap em, .level3>.wrap div, .level2.contact>.wrap ul ,.level2.contact>.wrap p , .level2.contact>.wrap h1 , .level2.contact>.wrap h2 , .level2.contact>.wrap h3 , .level2.contact>.wrap hr , .level2.contact>.wrap blockquote , .level2.contact>.wrap em , .level2.contact>.wrap div{
+	width:80%;
+}
+.level3>.wrap hr,.level2.contact>.wrap hr{
+	margin-left:0px;
+}
+body>.wrap, .level2 .wrap, .level2.contact .wrap, .search .wrap{
+	width:70%;
+	margin:0 auto 0 auto;
+}
+.level2 .wrap,.level2.contact .wrap, .level3 .wrap{
+	margin-top:2em;
+}
+@media (orientation: portrait) {
+	body>.wrap, .level2 .wrap, .level2.contact .wrap, .search .wrap{
+		margin:0 5% 0 5%;
+		width:90%;
+	}
+	.level3>.wrap ul,.level3>.wrap p,.level3>.wrap h1 ,.level3>.wrap hr, .level3>.wrap h2, .level3>.wrap h3, .level3>.wrap blockquote, .level3>.wrap em, .level3>.wrap div, .level2.contact>.wrap ul ,.level2.contact>.wrap p , .level2.contact>.wrap h1 , .level2.contact>.wrap h2 , .level2.contact>.wrap h3 , .level2.contact>.wrap hr , .level2.contact>.wrap blockquote , .level2.contact>.wrap em , .level2.contact>.wrap div{
+		width:70%;
+	}
+  
+}
+	
+
+
